@@ -1,0 +1,595 @@
+,Movie_Title,Genre,Director,Number_of_Screens,Verdict,RevenueUSD,BudgetUSD,Music.Director
+1,Ghajini,action,A.R. Murugadoss,1550,Blockbuster,6.24,23.34984,A.R. Rehman
+2,Taare Zameen Par,drama,Aamir Khan,500,Super Hit,2.16,10.50942,Shankar - Ehsaan - Loy
+3,Mangal Pandey - The Rising,drama,Ketan Mehta,675,Flop,4.44,6.30942,A.R. Rehman
+4,Fanaa,love_story,Kunal Kohli,650,Super Hit,3.6,12.6576,Jatin - Lalit
+5,Dangal,drama,Nitish Tiwari,4250,All Time Blockbuster,15.84,84.297,Pritam
+6,3 Idiots,drama,Rajkumar Hirani,1750,All Time Blockbuster,9.24,41.89242,Shantanu Moitra
+7,PK,drama,Rajkumar Hirani,3600,All Time Blockbuster,14.64,73.92435,Ajay - Atul
+8,Rang De Basanti,drama,Rakesh Omprakash Mehra,600,Hit,3.36,11.74896,A.R. Rehman
+9,Talaash,thriller,Reema Kagti,2550,Semi Hit,8.52,20.75661,Ram Sampath
+10,Dhoom 3,action,Vijay Krishna Acharya,3650,All Time Blockbuster,21,62.92512,Pritam
+11,Oye Lucky! Lucky Oye!,comedy,Dibakar Banerjee,400,Flop,1.44,1.20744,Sneha Khanwalkar
+12,Socha Na Tha,rom__com,Imtiaz Ali,110,Flop,0.6,0.6336,Sandesh Shandilya
+13,Honeymoon Travels Pvt. Ltd.,rom__com,Reema Kagti,350,Average,1.2,2.34192,Vishal - Shekhar
+14,Roar - Tigers Of The Sundarbans,thriller,Kamal Sadanah,1250,Flop,3,1.61535,John Stewart
+15,Players,action,Abbas - Mustan,1900,Disaster,6.6,5.8272,Pritam
+16,Game,thriller,Abhinay Deo,1100,Disaster,4.08,1.54551,Shankar - Ehsaan - Loy
+17,Khelein Hum Jee Jaan Sey,drama,Ashutosh Gowariker,750,Disaster,4.68,0.919845,Sohail Sen
+18,Drona,action,Goldie Behl,750,Disaster,5.16,2.16792,Dhruv Ghanekar
+19,Guru,drama,Mani Ratnam,650,Hit,2.64,10.04052,A.R. Rehman
+20,Raavan,action,Mani Ratnam,1350,Flop,6.6,5.94867,A.R. Rehman
+21,Delhi 6,drama,Rakesh Omprakash Mehra,1100,Flop,5.76,6.261,A.R. Rehman
+22,Bluffmaster,thriller,Rohan Sippy,350,Semi Hit,1.2,3.9252,Vishal - Shekhar
+23,Dum Maaro Dum,thriller,Rohan Sippy,1350,Flop,3.72,6.14328,Pritam
+24,Bunty Aur Babli,comedy,Shaad Ali,475,Super Hit,1.5,7.64886,Shankar - Ehsaan - Loy
+25,Jhoom Barabar Jhoom,rom__com,Shaad Ali,950,Below Average,3.24,5.823,Shankar - Ehsaan - Loy
+26,Dostana,rom__com,Tarun Mansukhani,1000,Average,4.8,10.45821,Vishal - Shekhar
+27,All Is Well,drama,Umesh Shukla,1650,Disaster,4.08,2.76384,Himesh Reshammiya
+28,Fitoor,drama,Abhishek Kapoor,1500,Disaster,8.52,4.7739,Amit Trivedi
+29,Aashiqui 2,love_story,Mohit Suri,1150,Blockbuster,1.8,13.1256,Mithoon
+30,Ok Jaanu,drama,Shaad Ali,1400,Flop,3.24,4.50024,A.R. Rehman
+31,Yeh Jo Mohabbat Hai,love_story,Shree Narayan Singh,125,Disaster,0.96,0.035216256,Anu Malik
+32,Aloo Chaat,comedy,Robby Grewal,400,Flop,1.2,0.89616,RDB
+33,Ankahee,thriller,Vikram Bhatt,125,Disaster,0.72,0.21156,Pritam
+34,Umrao Jaan,drama,J.P. Dutta,500,Disaster,2.76,2.343,Anu Malik
+35,Provoked,drama,Jag Mundhra,90,Disaster,1.44,1.59357,A.R. Rehman
+36,The Mistress Of Spices,drama,Somnath Sen,50,Disaster,1.08,0.4128,Mahesh Balraj
+37,U Me Aur Hum,love_story,Ajay Devgn,600,Flop,3,4.8024,Vishal Bhardwaj
+38,Shivaay,thriller,Ajay Devgn,2950,Below Average,12.36,14.89746,Jasleen Royal
+39,Blackmail,thriller,Anil Devgan,325,Disaster,1.14,0.79047,Himesh Reshammiya
+40,Cash,thriller,Anubhav Sinha,1000,Flop,3.84,3.51606,Vishal - Shekhar
+41,Atithi Tum Kab Jaoge?,comedy,Ashwini Dhir,1050,Average,2.64,5.19732,Pritam
+42,Son Of Sardaar,masala,Ashwini Dhir,2000,Hit,8.04,16.21497,Himesh Reshammiya
+43,Rascals,comedy,David Dhawan,1850,Flop,5.52,6.122175,Vishal - Shekhar
+44,Main Aisa Hi Hoon,drama,Harry Baweja,250,Disaster,0.9,0.6213,Himesh Reshammiya
+45,Shikhar,drama,John M. Matthan,350,Disaster,1.68,1.2414,Viju Shah
+46,Insan,action,K. Subhash,350,Disaster,1.5,1.2492,Himesh Reshammiya
+47,Toonpur Ka Superrhero,fantasy,Kireet Khurana,500,Disaster,3,0.612555,Anu Malik
+48,Dil Toh Baccha Hai Ji,comedy,Madhur Bhandarkar,1350,Flop,3.48,4.8552,Pritam
+49,Tango Charlie,action,Mani Shankar,325,Disaster,1.62,1.378275,Anu Malik
+50,Once Upon A Time In Mumbaai,drama,Milan Luthria,1400,Hit,4.2,10.22136,Pritam
+51,Baadshaho,action,Milan Luthria,2850,Flop,10.8,12.14184,Ankit Tiwari
+52,Drishyam,thriller,Nishikant Kamat,2250,Average,7.44,13.25112,Vishal Bhardwaj
+53,Action Jackson,action,Prabhu Deva,3350,Flop,11.16,10.66461,Himesh Reshammiya
+54,Apaharan,action,Prakash Jha,425,Semi Hit,1.32,2.7798,Aadesh Shrivastava
+55,Satyagraha,drama,Prakash Jha,2650,Flop,8.76,10.9209,Salim - Sulaiman
+56,Aakrosh,thriller,Priyadarshan,1200,Disaster,4.56,2.32836,Pritam
+57,Tezz,thriller,Priyadarshan,1950,Disaster,6.24,3.13485,Sajid - Wajid
+58,Halla Bol,drama,Rajkumar Santoshi,925,Flop,3.24,2.3268,Sukhwinder Singh
+59,Golmaal - Fun Unlimited,comedy,Rohit Shetty,600,Hit,1.8,5.60712,Vishal - Shekhar
+60,Sunday,comedy,Rohit Shetty,900,Flop,2.64,3.83538,Raghav Sachar
+61,Golmaal Returns,comedy,Rohit Shetty,1250,Hit,4.2,9.60096,Ashish Pandit
+62,All The Best - Fun Begins,comedy,Rohit Shetty,1300,Average,4.92,7.4133,Pritam
+63,Golmaal 3,comedy,Rohit Shetty,1750,Blockbuster,6,20.34762,Pritam
+64,Singham,action,Rohit Shetty,2050,Super Hit,4.92,16.95642,Ajay - Atul
+65,Bol Bachchan,comedy,Rohit Shetty,2500,Hit,7.92,19.15968,Ajay - Atul
+66,Singham Returns,action,Rohit Shetty,3500,Super Hit,12.6,25.98837,Honey Singh
+67,Golmaal Again,comedy,Rohit Shetty,3300,Blockbuster,17.04,37.3254,DJ Chetas
+68,Himmatwala,masala,Sajid Khan,3150,Flop,8.16,7.895925,Sajid - Wajid
+69,Kaal,thriller,Soham Shah,450,Average,1.56,3.9741,Salim - Sulaiman
+70,Omkara,drama,Vishal Bhardwaj,625,Flop,3.12,5.08944,Vishal Bhardwaj
+71,Holiday - A Soldier Is Never Off Duty,thriller,A.R. Murugadoss,3300,Hit,10.32,21.17064,Pritam
+72,The Shaukeens,comedy,Abhishek Sharma,1800,Flop,4.92,3.2643,Honey Singh
+73,Welcome,comedy,Anees Bazmee,1250,Super Hit,5.76,14.3397,Sajid - Wajid
+74,Singh Is Kinng,masala,Anees Bazmee,1400,Super Hit,6,14.8761,Pritam
+75,Thank You,comedy,Anees Bazmee,1800,Flop,7.32,8.52279,Pritam
+76,Blue,action,Anthony D'Souza,1500,Flop,9.6,7.67055,A.R. Rehman
+77,Boss,action,Anthony D'Souza,2800,Flop,8.4,10.17936,Meet Bros
+78,Khiladi 786,comedy,Ashish R. Mohan,2750,Average,7.56,11.64648,Himesh Reshammiya
+79,Bewafaa,love_story,Dharmesh Darshan,450,Below Average,2.16,3.98196,Nadeem - Shravan
+80,Tees Maar Khan,comedy,Farah Khan,2200,Semi Hit,5.4,11.94174,Vishal - Shekhar
+81,Entertainment,comedy,Farhad - Sajid,2850,Flop,9.72,12.39636,Sachin - Jigar
+82,Housefull 3,comedy,Farhad - Sajid,3650,Hit,11.64,23.3922,Mika Singh
+83,Brothers,action,Karan Malhotra,3400,Flop,13.44,14.7714,Ajay - Atul
+84,Gabbar Is Back,action,Krish,3100,Semi Hit,9.48,16.29744,Chirantan Bhatt
+85,Once Upon A Time In Mumbaai Dobaara!,action,Milan Luthria,2300,Flop,12,11.0052,Pritam
+86,8 x 10 Tasveer,thriller,Nagesh Kukunoor,825,Disaster,4.2,2.8296,Salim - Sulaiman
+87,Special 26,thriller,Neeraj Pandey,1600,Semi Hit,6,12.43488,M.M. Kreem
+88,Baby,thriller,Neeraj Pandey,2450,Average,9,14.98128,Meet Bros
+89,Phir Hera Pheri,comedy,Neeraj Vora,575,Super Hit,2.16,8.2944,Himesh Reshammiya
+90,Chandni Chowk To China,action,Nikhil Advani,1400,Disaster,7.44,6.74715,Shankar - Ehsaan - Loy
+91,Patiala House,drama,Nikhil Advani,1550,Flop,6,6.72486,Shankar - Ehsaan - Loy
+92,Rowdy Rathore,action,Prabhu Deva,2800,Blockbuster,9.24,23.8173,Sajid - Wajid
+93,Singh Is Bling,masala,Prabhu Deva,3100,Flop,10.92,15.0462,Sajid - Wajid
+94,Garam Masala,comedy,Priyadarshan,550,Hit,2.04,6.55821,Pritam
+95,Bhagam Bhag,comedy,Priyadarshan,750,Hit,3.84,8.13903,Pritam
+96,Bhool Bhulaiyaa,comedy,Priyadarshan,1050,Hit,3.84,9.94053,Pritam
+97,De Dana Dan,comedy,Priyadarshan,1550,Average,7.2,9.82224,Pritam
+98,Khatta Meetha,comedy,Priyadarshan,1450,Below Average,4.2,7.53504,Pritam
+99,Humko Deewana Kar Gaye,love_story,Raj Kanwar,475,Flop,2.04,3.2838,Anu Malik
+100,Family - Ties of Blood,action,Rajkumar Santoshi,525,Disaster,3,1.75143,Ram Sampath
+101,Desi Boyz,drama,Rohit Dhawan,2100,Flop,6.48,9.65232,Pritam
+102,Kambakkht Ishq,rom__com,Sabbir Khan,1500,Average,7.8,10.26756,Anu Malik
+103,Heyy Babyy,comedy,Sajid Khan,1000,Hit,4.32,10.07268,Shankar - Ehsaan - Loy
+104,Housefull,comedy,Sajid Khan,1700,Hit,5.64,13.95642,Shankar - Ehsaan - Loy
+105,Housefull 2,comedy,Sajid Khan,2650,Super Hit,8.64,22.6086,Sajid - Wajid
+106,Jaan-E-Mann,love_story,Shirish Kunder,700,Flop,4.2,5.55216,Anu Malik
+107,Joker,fantasy,Shirish Kunder,1950,Disaster,5.64,3.85305,G.V. Prakash Kumar
+108,Toilet Ek Prem Katha,drama,Shree Narayan Singh,2950,Super Hit,9,24.0096,Vickey Prasad
+109,Jolly LLB 2,comedy,Subhash Kapoor,3300,Hit,9.96,21.92811,Manj Musik
+110,Dosti - Friends Forever,love_story,Suneel Darshan,400,Flop,1.8,2.76873,Nadeem - Shravan
+111,Mere Jeevan Saathi,love_story,Suneel Darshan,250,Disaster,1.32,0.93849,Nadeem - Shravan
+112,OMG! Oh My God,comedy,Umesh Shukla,1200,Super Hit,3,14.5893,Meet Bros
+113,Tashan,action,Vijay Krishna Acharya,950,Below Average,3.72,6.1944,Vishal - Shekhar
+114,Deewane Huye Paagal,comedy,Vikram Bhatt,500,Flop,2.4,3.1899,Anu Malik
+115,Waqt - The Race Against Time,drama,Vipul Amrutlal Shah,400,Average,1.92,5.09835,Anu Malik
+116,Namastey London,love_story,Vipul Amrutlal Shah,775,Semi Hit,3.72,8.56923,Himesh Reshammiya
+117,Action Replayy,comedy,Vipul Amrutlal Shah,1500,Flop,6.12,5.555325,Pritam
+118,36 China Town,suspense,Abbas - Mustan,450,Semi Hit,2.28,4.5504,Himesh Reshammiya
+119,Naqaab,thriller,Abbas - Mustan,825,Disaster,2.28,2.54445,Pritam
+120,Aap Ki Khatir,love_story,Dharmesh Darshan,350,Disaster,1.92,1.58856,Himesh Reshammiya
+121,Gandhi My Father,drama,Feroz Abbas Khan,180,Disaster,0.96,0.89964,Piyush Kanojia
+122,Short Kut - The Con Is On,comedy,Neeraj Vora,775,Disaster,2.88,1.6065,Shankar - Ehsaan - Loy
+123,Mere Baap Pehle Aap,comedy,Priyadarshan,800,Below Average,2.4,4.34856,Vidyasagar
+124,Shaadi Se Pehle,rom__com,Satish Kaushik,350,Flop,1.32,2.02638,Himesh Reshammiya
+125,Khamoshiyan,horror,Karan Darra,1500,Flop,1.44,1.61016,Naveed Zafar
+126,Tere Bin Laden,comedy,Abhishek Sharma,375,Below Average,1.14,1.37172,Shankar - Ehsaan - Loy
+127,London Paris New York,love_story,Anu Menon,550,Flop,1.26,1.33821,Ali Zafar
+128,Chasme Baddoor,comedy,David Dhawan,1500,Hit,2.4,7.536525,Sajid - Wajid
+129,Total Siyaapa,rom__com,E. Niwas,850,Disaster,2.04,1.57788,Ali Zafar
+130,Dear Zindagi,drama,Gauri Shinde,1150,Semi Hit,5.52,16.66965, Amit Trivedi
+131,Pink,drama,Aniruddha Roy Chowdhury,1000,Hit,3.48,13.12536,Anupam Roy
+132,Teen Patti,thriller,Leena Yadav,575,Disaster,2.16,0.9156,Salim - Sulaiman
+133,Viruddh... Family Comes First,drama,Mahesh Manjrekar,260,Below Average,1.08,2.2215,Ajay - Atul
+134,Bhoothnath Returns,drama,Nitish Tiwari,1500,Below Average,4.32,6.13044,Honey Singh
+135,Bbuddah Hoga Terra Baap,action,Puri Jagannadh,1000,Flop,2.52,2.94312,Vishal - Shekhar
+136,Cheeni Kum,rom__com,R. Balki,250,Semi Hit,1.32,3.8664,Ilaiyaraja
+137,Paa,drama,R. Balki,600,Semi Hit,2.52,5.8719,Ilaiyaraja
+138,Shamitabh,drama,R. Balki,1600,Disaster,5.88,4.4553,Ilaiyaraja
+139,Sarkar,drama,Ram Gopal Verma,425,Semi Hit,1.68,4.71657,Bappi - Tutal
+140,Nishabd,drama,Ram Gopal Verma,400,Flop,1.02,1.40544,Vishal Bhardwaj
+141,Ram Gopal Varma Ki Aag,action,Ram Gopal Verma,875,Disaster,2.52,1.5276,Prasanna Shekhar
+142,Sarkar Raj,action,Ram Gopal Verma,1100,Below Average,3.24,7.14642,Bappi - Tutal
+143,Sarkar 3,action,Ram Gopal Verma,1450,Disaster,4.32,2.46456, Ram Shankar
+144,Black,drama,Sanjay Leela Bhansali,235,Average,2.76,4.91244,Monty Sharma
+145,Piku - Motion Se Hi Emotion,drama,Shoojit Sircar,1300,Hit,5.04,16.9518,Anupam Roy
+146,Eklavya - The Royal Guard,thriller,Vidhu Vinod Chopra,750,Flop,3.6,4.65936,Shantanu Moitra
+147,Bhoothnath,drama,Vivek Sharma,625,Average,2.4,4.6548,Salim - Sulaiman
+148,No Entry,comedy,Anees Bazmee,600,Super Hit,2.88,8.8962,Anu Malik
+149,No Problem,comedy,Anees Bazmee,1350,Flop,4.8,5.409,Pritam
+150,Black & White,drama,Subhash Ghai,350,Flop,1.08,0.99258,Sukhwinder Singh
+151,Khosla Ka Ghosla,comedy,Dibakar Banerjee,125,Below Average,0.45,0.801285,Bappi - Tutal
+152,Kisaan,drama,Puneet Sira,525,Disaster,1.8,0.3312,Daboo Malik
+153,2 States,love_story,Abhishek Varman,1900,Super Hit,5.4,20.7588,Shankar - Ehsaan - Loy
+154,Tevar,masala,Amit Ravindernath Sharma,2850,Flop,6.48,6.7815,Imraan Khan
+155,Mubarakan,comedy,Anees Bazmee,2300,Flop,7.8,10.79196,Rishi Rich
+156,Aurangzeb,drama,Atul Sabharwal,1200,Flop,2.64,4.20303,Amartya Rahut
+157,Ishaqzaade,love_story,Habib Faisal,1100,Hit,2.28,7.566,Amit Trivedi
+158,Half Girlfriend,love_story,Mohit Suri,2400,Below Average,6.96,10.37706,Rishi Rich
+159,Ek Ajnabee,action,Apoorva Lakhia,325,Flop,1.44,1.47648,Amar Mohile
+160,Daddy,drama,Ashim Ahluwalia,1150,Flop,2.52,1.85748,Sajid - Wajid
+161,D Day,thriller,Nikhil Advani,1250,Flop,3.36,3.46779,Shankar - Ehsaan - Loy
+162,Chakravyuh,drama,Prakash Jha,1200,Flop,3.6,3.0924,Salim - Sulaiman
+163,Vaada,thriller,Satish Kaushik,285,Flop,0.96,1.1436,Himesh Reshammiya
+164,Inkaar,drama,Sudhir Mishra,800,Flop,1.68,1.7922,Shantanu Moitra
+165,Elaan,action,Vikram Bhatt,375,Disaster,1.8,1.55277,Anu Malik
+166,I See You,drama,Vivek Agrawal,125,Disaster,0.96,0.230805,Vishal - Shekhar
+167,Lekar Hum Deewana Dil,rom__com,Arif Ali,875,Disaster,0.3384,0.54432,A.R. Rehman
+168,Welcome 2 Karachi,comedy,Ashish R. Mohan,1350,Disaster,3.48,1.62435,Rochak Kohli
+169,Krazzy 4,comedy,Jaideep Sen,800,Average,2.16,3.87336,Rajesh Roshan
+170,Hum Tum Aur Ghost,fantasy,Kabeer Kaushik,450,Disaster,2.52,0.9612,Shankar - Ehsaan - Loy
+171,Anthony Kaun Hai?,comedy,Raj Kaushal,300,Disaster,1.56,1.17552,Himesh Reshammiya
+172,Jolly LLB,comedy,Subhash Kapoor,875,Hit,1.62,5.1948,Krsna
+173,Guddu Rangeela,drama,Subhash Kapoor,975,Disaster,2.4,1.1523,Amit Trivedi
+174,Meri Pyaari Bindu,rom__com,Akshay Roy,750,Flop,2.64,2.13492,Sachin - Jigar
+175,Bareilly Ki Barfi,rom__com,Ashwiny Iyer Tiwari,1000,Average,2.4,6.58752,Samira Koppikar
+176,Bewakoofiyaan,rom__com,Nupur Asthana,1100,Flop,2.64,2.66472,Raghu Dixit
+177,Shubh Mangal Saavdhan,comedy,R.S. Prasanna,1300,Semi Hit,3,7.68264,Vayu
+178,Nautanki Saala,comedy,Rohan Sippy,925,Below Average,1.92,3.95187,Mikey McCleary
+179,Dum Laga Ke Haisha,comedy,Sharat Katariya,775,Semi Hit,1.68,4.97445,Anu Malik
+180,Vicky Donor,comedy,Shoojit Sircar,575,Hit,1.2,7.3584,Rochak Kohli
+181,Hawaizaada,drama,Vibhu Puri,900,Disaster,4.08,0.6708,Mangesh Dhakde
+182,Corporate,drama,Madhur Bhandarkar,250,Average,0.81,1.80672,Shamir Tandon
+183,Creature 3D,horror,Vikram Bhatt,1300,Flop,3,2.4762,Tony Kakkar
+184,Humko Tumse Pyaar Hai,love_story,Bunty Soorma,140,Disaster,0.9,0.51936,Anand Raj Anand
+185,Chamku,action,Kabeer Kaushik,425,Disaster,1.2,0.37161,Monty Sharma
+186,Ek - The Power Of One,action,Sangeeth Sivan,650,Disaster,2.52,1.098,Pritam
+187,Barsaat,love_story,Suneel Darshan,375,Below Average,1.2,2.3472,Nadeem - Shravan
+188,Jurm,thriller,Vikram Bhatt,275,Disaster,1.08,0.7368,Anu Malik
+189,Shirin Farhad Ki Toh Nikal Padi,rom__com,Bela Sehgal,650,Flop,2.28,2.3841,Jeet Ganguly
+190,Finding Fanny,drama,Homi Adajania,875,Flop,3.48,6.15372,Mathias Duplessy
+191,Raanjhanaa,love_story,Anand L. Rai,1450,Hit,4.32,11.29611,A.R. Rehman
+192,Second Hand Husband,comedy,Smeep Kang,525,Disaster,1.32,0.6126,Jatinder Shah
+193,Phillauri,drama,Anshai Lal,1500,Flop,3.48,5.5929,Jasleen Royal
+194,Tom Dick and Harry,comedy,Deepak Tijori,275,Average,0.9,1.6218,Himesh Reshammiya
+195,Aashiq Banaye Aapne,love_story,Aaditya Datt,225,Below Average,0.54,1.1187,Himesh Reshammiya
+196,Azhar,drama,Anthony D'Souza,2100,Flop,4.8,5.99268,Amal Malik
+197,Good Boy Bad Boy,comedy,Ashwini Chaudhary,525,Flop,1.5,1.239225,Himesh Reshammiya
+198,Shanghai,thriller,Dibakar Banerjee,975,Flop,2.76,4.1958, Vishal - Shekhar
+199,Tum Mile,love_story,Kunal Deshmukh,675,Disaster,2.64,1.6152,Pritam
+200,Jannat 2,thriller,Kunal Deshmukh,2050,Semi Hit,2.4,7.57092,Pritam
+201,Raja Natwarlal,thriller,Kunal Deshmukh,1950,Disaster,5.64,4.68114,Yuvan Shankar Raja
+202,Jawani Diwani - A Youtful Joyride,comedy,Manish Sharma,275,Flop,0.57,0.810648,Sajid - Wajid
+203,Zeher,thriller,Mohit Suri,275,Average,0.6,1.327575,Roop Kumar Rathod
+204,Awarapan,drama,Mohit Suri,375,Disaster,2.16,1.4709,Pritam
+205,Raaz - The Mystery Continues,horror,Mohit Suri,1150,Semi Hit,2.16,4.5708,Toshi - Sharib
+206,Crook,action,Mohit Suri,1050,Flop,2.76,1.80492,Pritam
+207,Murder 2,thriller,Mohit Suri,1300,Super Hit,1.56,8.1414,Mithoon
+208,Hamari Adhuri Kahani,love_story,Mohit Suri,1750,Flop,4.8,6.22464,Mithoon
+209,Ghanchakkar,comedy,Raj Kumar Gupta,1450,Flop,3.48,5.39898,Amit Trivedi
+210,The Killer,thriller,Raksha Mistry,250,Disaster,0.87,0.784548,Sajid - Wajid
+211,The Train,thriller,Raksha Mistry,325,Flop,0.93,0.860625,Mithoon
+212,Ungli,drama,Renzil D'Silva,1800,Disaster,4.68,2.99589,Gulraj Singh
+213,Raaz 3,horror,Vikram Bhatt,2100,Super Hit,3.72,11.43195,Rashid Khan
+214,Mr. X,fantasy,Vikram Bhatt,2100,Disaster,4.44,3.56835,Jeet Ganguly
+215,Raaz Reboot,horror,Vikram Bhatt,1700,Flop,3.72,4.4358,Sangeet - Siddharth
+216,Chocolate,thriller,Vivek Agnihotri,255,Flop,1.08,1.24224,Pritam
+217,Shaadi No. 1,comedy,David Dhawan,425,Flop,1.8,2.45919,Anu Malik
+218,Just Married,rom__com,Meghna Gulzar,250,Disaster,0.96,0.74544,Pritam
+219,Dulha Mil Gaya,rom__com,Mudassar Aziz,550,Disaster,2.64,0.7782,Pritam
+220,Darling,drama,Ram Gopal Verma,240,Disaster,0.78,0.56979,Pritam
+221,Ek Khiladi Ek Haseena,thriller,Suparn Verma,300,Flop,0.69,0.946395,Pritam
+222,Rock On!!,drama,Abhishek Kapoor,400,Average,2.28,4.33125,Shankar - Ehsaan - Loy
+223,Wazir,thriller,Bejoy Nambiar,1550,Below Average,4.32,9.09018,Gaurav Godkhindi
+224,Bhaag Milkha Bhaag,drama,Rakesh Omprakash Mehra,1650,Super Hit,6.36,19.6536,Shankar - Ehsaan - Loy
+225,Lucknow Central,drama,Ranjit Tiwari,1250,Disaster,3.6,2.152275,Rochak Kohli
+226,Shaadi Ke Side Effects,rom__com,Saket Chaudhary,1900,Flop,5.16,8.3556,Pritam
+227,Rock On 2,drama,Shujaat Saudagar,1450,Disaster,5.4,2.1312,Shankar - Ehsaan - Loy
+228,Karthik Calling Karthik,thriller,Vijay Lalwani,850,Flop,2.4,3.3864,Shankar - Ehsaan - Loy
+229,Luck By Chance,drama,Zoya Akhtar,600,Flop,2.16,2.5929,Shankar - Ehsaan - Loy
+230,Khoobsurat,rom__com,Shashanka Ghosh,1150,Below Average,2.76,6.08058,Sneha Khanwalkar
+231,Ramaiya Vastavaiya,love_story,Prabhu Deva,1400,Flop,4.56,4.60104,Sachin - Jigar
+232,Do Knot Disturb,comedy,David Dhawan,1000,Flop,3.6,3.3468,Nadeem - Shravan
+233,Money Hai Toh Honey Hai,comedy,Ganesh Acharya,525,Disaster,2.16,0.7515,Sony Chandy
+234,Loot,comedy,Rajnish Thakur,625,Disaster,1.8,0.5292,Shabbir Ahmed
+235,Life Partner,comedy,Rumi Jaffery,900,Flop,3,3.96264,Pritam
+236,MSG - The Warrior Lion Heart,drama,Gurmeet Ram Rahim Singh,450,Flop,2.16,2.12001,Gurmeet Ram Rahim Singh
+237,Hind Ka Napak Ko Jawab - MSG Lion Heart-2,action,Gurmeet Ram Rahim Singh,525,Flop,1.44,1.723284,Gurmeet Ram Rahim Singh
+238,Jattu Engineer,drama,Gurmeet Ram Rahim Singh,200,Flop,1.08,1.196694,Gurmeet Ram Rahim Singh
+239,MSG - The Messenger Of God,drama,Jeetu Arora,650,Disaster,3.6,2.02788,Gurmeet Ram Rahim Singh
+240,MSG 2 - The Messenger,drama,Jeetu Arora,500,Disaster,2.76,2.06127,Gurmeet Ram Rahim Singh
+241,Victory,drama,Ajit Pal Mangat,325,Disaster,2.28,0.23082,Anu Malik
+242,Love Story 2050,fantasy,Harry Baweja,900,Disaster,4.8,2.21685,Anu Malik
+243,Dishkiyaoon,thriller,Sanamjit Talwar,1550,Disaster,0.468,0.82647,Sneha Khanwalkar
+244,Mirzya,love_story,Rakesh Omprakash Mehra,1750,Disaster,7.56,1.61598,Shankar - Ehsaan - Loy
+245,Sanam Teri Kasam,love_story,Lawrence D'Souza,10,Flop,0.3,0.0087,Nadeem - Shravan
+246,Yaariyan,love_story,Divya Khosla,1400,Semi Hit,2.52,6.2886,Honey Singh
+247,Karzzzz,drama,Satish Kaushik,900,Disaster,2.88,1.9536,Himesh Reshammiya
+248,Aap Kaa Surroor,drama,Vijay Taneja,550,Average,1.08,2.2992,Himesh Reshammiya
+249,Kites,thriller,Anurag Basu,1800,Flop,9.84,10.35984,Rajesh Roshan
+250,Jodhaa Akbar,love_story,Ashutosh Gowariker,1000,Semi Hit,6.6,12.93381,A.R. Rehman
+251,Mohenjo Daro,drama,Ashutosh Gowariker,2700,Disaster,16.56,12.489,A.R. Rehman
+252,Agneepath,action,Karan Malhotra,2600,Super Hit,8.52,23.3193,Ajay - Atul
+253,Krrish,action,Rakesh Roshan,950,Blockbuster,4.8,15.18705,Rajesh Roshan
+254,Krrish 3,action,Rakesh Roshan,3500,Blockbuster,11.4,34.98288,Rajesh Roshan
+255,Dhoom 2,action,Sanjay Gadhvi,1000,Blockbuster,5.04,18.16668,Pritam
+256,Kaabil,thriller,Sanjay Gupta,2550,Below Average,10.68,18.54168,Rajesh Roshan
+257,Guzaarish,drama,Sanjay Leela Bhansali,1300,Disaster,8.88,6.58734,Sanjay Leela Bhansali
+258,Bang Bang,action,Siddharth Anand,3250,Semi Hit,19.2,32.48295,Vishal - Shekhar
+259,Zindagi Na Milegi Dobara,drama,Zoya Akhtar,1400,Hit,7.2,18.37932,Shankar - Ehsaan - Loy
+260,Jaane Tu... Ya Jaane Na,love_story,Abbas Tyrewala,600,Super Hit,1.8,10.10427,A.R. Rehman
+261,Delhi Belly,comedy,Abhinay Deo,1250,Hit,2.76,10.9434,Ram Sampath
+262,Mere Brother Ki Dulhan,rom__com,Ali Abbas Zafar,1650,Hit,3.84,11.26104,Sohail Sen
+263,Break Ke Baad,rom__com,Danish Aslam,875,Flop,2.64,3.4092,Vishal - Shekhar
+264,Katti Batti,rom__com,Nikhil Advani,1250,Flop,3.84,5.1171,Shankar - Ehsaan - Loy
+265,I Hate Luv Storys,love_story,Punit Malhotra,1050,Hit,2.76,8.87949,Vishal - Shekhar 
+266,Gori Tere Pyaar Mein,rom__com,Punit Malhotra,1400,Disaster,5.4,3.73449,Vishal - Shekhar
+267,Kidnap,thriller,Sanjay Gadhvi,875,Flop,3.72,4.27272,Pritam
+268,Matru Ki Bijlee Ka Mandola,drama,Vishal Bhardwaj,1850,Flop,4.92,7.41138,Vishal Bhardwaj
+269,Life In A Metro,drama,Anurag Basu,225,Semi Hit,1.14,2.93442,Pritam
+270,Talvar,drama,Meghna Gulzar,675,Semi Hit,2.04,5.66136,Vishal Bhardwaj
+271,Billu,comedy,Priyadarshan,1050,Flop,3.24,5.69415,Pritam
+272,Hindi Medium,comedy,Saket Chaudhary,1050,Hit,2.76,11.0226,Sachin - Jigar
+273,Paan Singh Tomar,drama,Tigmanshu Dhulia,300,Semi Hit,0.84,2.4216,Abhishek Ray
+274,Bhoot Returns,horror,Ram Gopal Verma,925,Flop,0.9,0.76704,Sandeep Chowta
+275,Rangrezz,drama,Priyadarshan,1150,Disaster,2.76,1.166175,Sajid - Wajid
+276,Ajab Gazabb Love,comedy,Sanjay Gadhvi,850,Disaster,3.48,1.22508,Sajid - Wajid
+277,Fugly,drama,Kabir Sadanand,950,Flop,2.16,1.779345,Honey Singh
+278,Jhoota Hi Sahi,rom__com,Abbas Tyrewala,650,Disaster,4.2,1.8702,A.R. Rehman
+279,Force 2,action,Abhinay Deo,2250,Flop,4.92,6.31275,Amal Malik
+280,Welcome Back,comedy,Anees Bazmee,3200,Semi Hit,12.96,20.25204,Meet Bros
+281,No Smoking,drama,Anurag Kashyap,225,Disaster,0.9,0.41916,Vishal Bhardwaj
+282,Kabul Express,drama,Kabir Khan,275,Flop,1.44,2.5683,Raghav Sachar
+283,New York,thriller,Kabir Khan,1200,Hit,3.36,9.40041,Pritam
+284,"I, Me Aur Main",rom__com,Kapil Sharma,975,Flop,2.4,1.65462,Pritam
+285,Taxi Number 9 2 11,drama,Milan Luthria,400,Semi Hit,1.2,3.8604,Vishal - Shekhar
+286,Aashayein,drama,Nagesh Kukunoor,425,Disaster,2.16,0.4161,Salim - Sulaiman
+287,Force,action,Nishikant Kamat,1450,Flop,3.36,4.68384,Harris Jayraj
+288,Rocky Handsome,thriller,Nishikant Kamat,1900,Flop,5.16,4.269825,Bombay Rockers
+289,Dishoom,action,Rohit Dhawan,3000,Average,7.32,14.25156,Pritam
+290,Karam,thriller,Sanjay F. Gupta,225,Flop,0.69,0.9315,Vishal - Shekhar
+291,Shootout At Wadala,action,Sanjay Gupta,2200,Average,5.88,9.90651,Anand Raj Anand
+292,Madras Cafe,thriller,Shoojit Sircar,1050,Average,4.2,8.10768,Shantanu Moitra
+293,Dhan Dhana Dhan Goal,drama,Vivek Agnihotri,650,Flop,2.28,2.606925,Pritam
+294,We Are Family,drama,Siddharth Malhotra,900,Flop,3.6,5.04588,Shankar - Ehsaan - Loy
+295,Simran,drama,Hansal Mehta,1550,Flop,3.36,3.1563,Sachin - Jigar
+296,Queen,drama,Vikas Bahl,800,Hit,2.76,11.69016,Amit Trivedi
+297,Kis Kisko Pyaar Karoon,comedy,Abbas - Mustan,1700,Hit,1.92,8.592,Dr. Zeus
+298,Firangi,drama,Rajeev Dhingra,1550,Disaster,4.8,1.99248,Jatinder Shah
+299,Alone,horror,Bhushan Patel,1600,Flop,2.28,3.1014,Mithoon
+300,Heroine,drama,Madhur Bhandarkar,2000,Below Average,4.2,6.8541,Salim - Sulaiman
+301,Ki & Ka,rom__com,R. Balki,1600,Semi Hit,4.2,11.916,Mithoon
+302,Ek Main Aur Ekk Tu,love_story,Shakun Batra,1250,Average,3.84,8.6532,Amit Trivedi
+303,Dangerous Ishhq,thriller,Vikram Bhatt,1050,Flop,3.12,1.04256,Himesh Reshammiya
+304,Guest In London,comedy,Ashwini Dhir,1350,Disaster,3.36,1.3335,Raghav Sachar
+305,Pyaar Ka Punchnama 2,comedy,Luv Ranjan,1400,Super Hit,2.64,10.58121,Hitesh Sonik
+306,Black Friday,drama,Anurag Kashyap,160,Flop,0.54,0.81408,Indian Ocean
+307,Mumbai Meri Jaan,drama,Nishikant Kamat,175,Flop,0.42,0.60264,Samir Phatarpekar
+308,Page 3,drama,Madhur Bhandarkar,50,Semi Hit,0.51,1.540725,Shamir Tandon
+309,Hattrick,comedy,Milan Luthria,400,Flop,1.08,0.87096,Pritam
+310,Luv Shuv Tey Chicken Khurana,comedy,Sameer Sharma,450,Flop,1.32,1.31736,Amit Trivedi
+311,Traffic Signal,drama,Madhur Bhandarkar,325,Average,0.63,1.45344,Shamir Tandon
+312,Kalyug,drama,Mohit Suri,225,Semi Hit,0.48,1.231464,Anu Malik
+313,Dhoondte Reh Jaoge,comedy,Umesh Shukla,625,Flop,1.2,1.0842,Sajid - Wajid
+314,Sadiyaan,drama,Raj Kanwar,400,Disaster,2.16,0.2175,Adnan Sami
+315,Aaja Nachle,drama,Anil Mehta,600,Flop,2.4,3.4128,Salim - Sulaiman
+316,Gulaab Gang,drama,Soumik Sen,1700,Flop,3.48,1.99068,Soumik Sen
+317,Saheb Biwi Aur Gangster,thriller,Tigmanshu Dhulia,525,Below Average,0.72,1.2906,Ankit Tiwari
+318,Saheb Biwi Aur Gangster Returns,thriller,Tigmanshu Dhulia,1350,Below Average,2.28,3.456165,Sandeep Chowta
+319,Bachke Rehna Re Baba,comedy,Govind Menon,225,Flop,0.72,0.66231,Anu Malik
+320,Hisss,thriller,Jennifer Chambers Lynch,650,Disaster,3.36,0.90699,Salim - Sulaiman
+321,Ugly Aur Pagli,rom__com,Sachin Kamlakar Khot,400,Flop,1.44,1.290195,Anu Malik
+322,Maan Gaye Mughall-E-Azam,comedy,Sanjay Chhel,325,Disaster,0.96,0.310464,Anu Malik
+323,Gangs Of Wasseypur 1,drama,Anurag Kashyap,1000,Below Average,2.52,4.556388, Sneha Khanwalkar
+324,Chaahat Ek Ehsaas,adult,S. Latif,1,Disaster,0.048,0.00084,Dheeraj Sen
+325,Baabarr,action,Ashu Trikha,350,Disaster,0.54,0.237432,Anand Raj Anand
+326,Machine,thriller,Abbas - Mustan,1600,Disaster,3.6,0.41817,Tanishk
+327,The Attacks Of 26/11,thriller,Ram Gopal Verma,1250,Flop,2.76,2.82273,Amar Mohile
+328,Ishqiya,rom__com,Abhishek Chaubey,600,Semi Hit,2.28,3.8178,Vishal Bhardwaj
+329,Dedh Ishqiya,rom__com,Abhishek Chaubey,1250,Flop,4.44,4.90044,Vishal Bhardwaj
+330,Gangs Of Wasseypur 2,drama,Anurag Kashyap,1000,Flop,2.16,3.745989,Piyush Mishra
+331,Raman Raghav 2.0,thriller,Anurag Kashyap,700,Flop,1.2,1.28136,Ram Sampath
+332,Freaky Ali,comedy,Sohail Khan,1200,Flop,2.76,2.5053,Sajid - Wajid
+333,Tum Bin 2,love_story,Anubhav Sinha,1050,Flop,1.92,0.815625,Ankit Tiwari
+334,Aa Dekhen Zara,thriller,Jehangir Surti,450,Disaster,2.04,1.24602,Pritam
+335,Jail,drama,Madhur Bhandarkar,575,Flop,1.68,1.0422,Toshi - Sharib
+336,Lafangey Parindey,drama,Pradeep Sarkar,950,Below Average,2.28,3.8391,R. Anandh
+337,Peepli [Live],drama,Anusha Rizvi,825,Hit,1.68,5.6223,Ram Sampath
+338,Dharam Sankat Mein,comedy,Fuwad Khan,1100,Flop,1.68,1.450992,Sachin Gupta
+339,Yun Hota Toh Kya Hota,drama,Naseeruddin Shah,75,Disaster,0.75,0.21,Viju Shah
+340,Buddha Mar Gaya,comedy,Rahul Rawail,285,Flop,0.45,0.54,Bappi Lahiri
+341,Sikandar,thriller,Piyush Jha,250,Disaster,0.6,0.09888,Sandesh Shandilya
+342,Bahubali - The Beginning,masala,S.S. Rajamouli,1600,Blockbuster,20.4,20.1882,M.M. Kreem
+343,Bahubali 2 - The Conclusion,masala,S.S. Rajamouli,3950,All Time Blockbuster,23.4,96.19344,M.M. Kreem
+344,Tutak Tutak Tutiya,comedy,A.L. Vijay,875,Flop,1.32,0.83286,Sajid - Wajid
+345,ABCD - Any Body Can Dance,drama,Remo D'Souza,1000,Semi Hit,3.24,6.93576,Sachin - Jigar
+346,Ekk Deewana Tha,love_story,Gautham Menon,600,Flop,1.68,1.02669,A.R. Rehman
+347,What's Your Raashee,rom__com,Ashutosh Gowariker,725,Disaster,3.84,2.095425,Sohail Sen
+348,Pyaar Impossible!,rom__com,Jugal Hansraj,425,Flop,1.68,1.07454,Salim - Sulaiman
+349,Fashion,drama,Madhur Bhandarkar,750,Average,2.4,4.71534,Salim - Sulaiman
+350,Mary Kom,drama,Omung Kumar,1900,Hit,4.56,10.34301,Shashi Suman
+351,Jai Gangaajal,drama,Prakash Jha,2500,Flop,3.96,5.9511,Salim - Sulaiman
+352,7 Khoon Maaf,thriller,Vishal Bhardwaj,975,Flop,3,3.6084,Vishal Bhardwaj
+353,Sanam Re,love_story,Divya Khosla,2000,Flop,3.24,3.7746,Amal Malik
+354,Fukrey,comedy,Mrighdeep Singh Lamba,1000,Semi Hit,2.28,5.8821,Ram Sampath
+355,Fukrey Returns,comedy,Mrighdeep Singh Lamba,1500,Super Hit,3.48,13.47366,Shree - Isshq
+356,Tanu Weds Manu,love_story,Anand L. Rai,850,Hit,2.52,6.76962,Krsna
+357,Tanu Weds Manu Returns,rom__com,Anand L. Rai,2150,Blockbuster,4.68,29.23722,Surj RDB
+358,Jodi Breakers,comedy,Ashwini Chaudhary,1000,Flop,2.52,1.75761,Salim - Sulaiman
+359,Sachin - A Billion Dreams,documentary,James Erskine,1950,Average,4.68,7.79418,A.R. Rehman
+360,13B,horror,Vikram K. Kumar,550,Flop,1.44,1.21152,Tubby Parik
+361,Parched,drama,Leena Yadav,275,Disaster,2.88,1.4436,Hitesh Sonik
+362,Pyaar Ke Side Effects,comedy,Saket Chaudhary,225,Below Average,0.78,1.46268,Pritam
+363,Raqeeb,thriller,Anurag Singh,190,Disaster,0.75,0.21387,Pritam
+364,Table No. 21,thriller,Aditya Datt,850,Below Average,1.02,2.1354,Gajendra Verma
+365,Ata Pata Laapata,comedy,Rajpal Yadav,125,Disaster,1.32,0.05061,Sukhwinder Singh
+366,Zanjeer,action,Apoorva Lakhia,2050,Disaster,7.2,2.6577,Anand Raj Anand
+367,Besharam,comedy,Abhinav Kashyap,3400,Flop,9.96,11.41434,Lalit Pandit
+368,Barfi!,drama,Anurag Basu,1250,Super Hit,6,20.96856,Pritam
+369,Jagga Jasoos,drama,Anurag Basu,1750,Disaster,15.72,10.42287,Pritam
+370,Bombay Velvet,drama,Anurag Kashyap,2550,Disaster,14.16,5.17638,Amit Trivedi
+371,Wake Up Sid,drama,Ayan Mukherji,500,Semi Hit,2.16,5.6529,Amit Trivedi
+372,Yeh Jawaani Hai Deewani,love_story,Ayan Mukherji,2900,Blockbuster,9,35.47356,Pritam
+373,Rockstar,drama,Imtiaz Ali,1950,Semi Hit,7.92,13.04421,A.R. Rehman
+374,Tamasha,drama,Imtiaz Ali,2050,Flop,10.44,16.39665,A.R. Rehman
+375,Ae Dil Hai Mushkil,love_story,Karan Johar,2850,Hit,11.76,27.54747, Pritam
+376,Chillar Party,drama,Nitish Tiwari,325,Flop,0.69,0.668805,Amit Trivedi
+377,Raajneeti,thriller,Prakash Jha,1750,Super Hit,7.32,17.46048,Pritam
+378,Ajab Prem Ki Ghazab Kahani,comedy,Rajkumar Santoshi,1300,Super Hit,5.28,11.9685,Pritam
+379,Saawariya,love_story,Sanjay Leela Bhansali,850,Disaster,5.4,4.69596,Sanjay Leela Bhansali
+380,Rocket Singh: Salesman Of The Year,drama,Shimit Amin,800,Below Average,1.92,4.03893,Salim - Sulaiman
+381,Bachna Ae Haseeno,rom__com,Siddharth Anand,800,Semi Hit,2.76,7.3887,Vishal - Shekhar
+382,Anjaana Anjaani,rom__com,Siddharth Anand,1250,Average,4.8,8.2185,Vishal - Shekhar
+383,Roy,thriller,Vikramjit Singh,2350,Flop,6,6.72258,Ankit Tiwari
+384,Highway,drama,Imtiaz Ali,750,Below Average,3,5.72478,A.R. Rehman
+385,Murder 3,thriller,Vishesh Bhatt,1400,Flop,1.8,3.3303,Pritam
+386,D,action,Vishram Sawant,250,Flop,0.78,1.019532,Nitin Raikwar
+387,Laaga Chunari Mein Daag,drama,Pradeep Sarkar,750,Flop,2.4,4.40067,Shantanu Moitra
+388,Mardaani,thriller,Pradeep Sarkar,1250,Semi Hit,2.52,6.80628,Salim - Sulaiman
+389,Aiyyaa,comedy,Sachin Kundalkar,900,Disaster,2.28,1.1502,Amit Trivedi
+390,Befikre,rom__com,Aditya Chopra,2150,Below Average,7.68,12.4785,Vishal - Shekhar
+391,Gunday,masala,Ali Abbas Zafar,2700,Semi Hit,6.12,14.37864,Sohail Sen
+392,Band Baaja Baaraat,rom__com,Maneesh Sharma,675,Average,1.8,3.996,Salim - Sulaiman
+393,Ladies vs Ricky Bahl,drama,Maneesh Sharma,1150,Average,2.4,5.93976,Salim - Sulaiman
+394,Goliyon Ki Raasleela Ram - Leela,love_story,Sanjay Leela Bhansali,3000,Hit,10.56,24.17766,Sanjay Leela Bhansali
+395,Bajirao Mastani,drama,Sanjay Leela Bhansali,2700,Hit,17.4,42.7443,Sanjay Leela Bhansali
+396,Kill Dil,thriller,Shaad Ali,2300,Flop,4.8,6.252,Shankar - Ehsaan - Loy
+397,Lootera,love_story,Vikramaditya Motwane,1050,Flop,3.84,5.56878,Amit Trivedi
+398,Dil Dhadakne Do,drama,Zoya Akhtar,2300,Below Average,9.96,17.37585,Shankar - Ehsaan - Loy
+399,Super Nani,drama,Indra Kumar,825,Disaster,2.16,0.5292,Harshit Saxena
+400,Patel Ki Punjabi Shaadi,comedy,Sanjay Chhel,725,Disaster,1.32,0.304275,Lalit Pandit
+401,De Taali,comedy,E. Niwas,475,Flop,1.44,1.57257,Vishal - Shekhar
+402,Dhamaal,comedy,Indra Kumar,800,Semi Hit,2.28,6.08796,Adnan Sami
+403,Grand Masti,comedy,Indra Kumar,2100,Super Hit,4.08,15.66132,Sanjeev - Darshan
+404,Great Grand Masti,comedy,Indra Kumar,1700,Disaster,4.68,2.42715,Sanjeev - Darshan
+405,Bangistan,comedy,Karan Anshuman,700,Disaster,3.48,0.9963,Ram Sampath
+406,Tere Naal Love Ho Gaya,rom__com,Mandeep Kumar,1200,Below Average,1.68,3.67515,Sachin - Jigar
+407,Malamaal Weekly,comedy,Priyadarshan,300,Super Hit,0.84,5.13216,Uttankk V. Vorra
+408,Apna Sapna Money Money,comedy,Sangeeth Sivan,450,Semi Hit,1.14,2.4879,Pritam
+409,Aladin,fantasy,Sujoy Ghosh,600,Disaster,5.04,1.3074,Vishal - Shekhar
+410,Kal Kissne Dekha,comedy,Vivek Sharma,475,Disaster,2.52,0.99024,Sajid - Wajid
+411,Udaan,drama,Vikramaditya Motwane,225,Flop,0.54,0.51366,Amit Trivedi
+412,Race,thriller,Abbas - Mustan,1300,Hit,5.52,12.414,Pritam
+413,Race 2,thriller,Abbas - Mustan,3200,Semi Hit,11.28,19.3845,Pritam
+414,Being Cyrus,drama,Homi Adajania,80,Flop,0.48,0.77055,Salim - Sulaiman
+415,Cocktail,rom__com,Homi Adajania,1600,Hit,6.36,15.02817,Pritam
+416,Love Aaj Kal,rom__com,Imtiaz Ali,1350,Hit,6.72,14.3421,Pritam
+417,Phantom,action,Kabir Khan,2600,Flop,8.64,10.1328,Pritam
+418,Thoda Pyaar Thoda Magic,drama,Kunal Kohli,750,Flop,2.76,4.47036,Shankar - Ehsaan - Loy
+419,Sanam Teri Kasam,love_story,Lawrence D'Souza,10,Flop,0.3,0.0087,Nadeem - Shravan
+420,Parineeta,drama,Pradeep Sarkar,325,Below Average,2.04,3.9159,Shantanu Moitra
+421,Aarakshan,drama,Prakash Jha,1500,Flop,6.36,7.74351,Shankar - Ehsaan - Loy
+422,Go Goa Gone,comedy,Raj Nidimoru,1100,Flop,2.28,4.611,Sachin - Jigar
+423,Happy Ending,rom__com,Raj Nidimoru,1650,Disaster,6.84,4.56066,Sachin - Jigar
+424,Chef,drama,Raja Krishna Menon,1550,Disaster,3.72,1.26594,Raghu Dixit
+425,Kurbaan,thriller,Renzil D'Silva,1250,Flop,6,5.15838,Salim - Sulaiman
+426,Humshakals,comedy,Sajid Khan,2800,Flop,7.68,10.4424,Himesh Reshammiya
+427,Salaam Namaste,rom__com,Siddharth Anand,325,Hit,1.32,6.8676,Vishal - Shekhar
+428,Ta Ra Rum Pum,drama,Siddharth Anand,725,Semi Hit,3.6,8.2974,Vishal - Shekhar
+429,Agent Vinod,thriller,Sriram Raghavan,2200,Flop,7.2,8.7606,Pritam
+430,Bullet Raja,action,Tigmanshu Dhulia,2150,Flop,6.24,6.4659,Sajid - Wajid
+431,Dabangg,action,Abhinav Kashyap,1900,Blockbuster,4.92,26.3124,Sajid - Wajid
+432,Sultan,masala,Ali Abbas Zafar,4350,Blockbuster,17.4,69.2745,Vishal - Shekhar
+433,Tiger Zinda Hai,action,Ali Abbas Zafar,4600,Blockbuster,25.2,67.81224,Vishal - Shekhar
+434,Ready,comedy,Anees Bazmee,2300,Blockbuster,7.32,22.00785,Pritam
+435,Veer,action,Anil Sharma,1600,Below Average,7.56,7.3368,Sajid - Wajid
+436,Dabangg 2,action,Arbaaz Khan,3400,Blockbuster,10.08,29.9082,Sajid - Wajid
+437,Maine Pyaar Kyun Kiya?,comedy,David Dhawan,450,Semi Hit,1.8,5.6667,Himesh Reshammiya
+438,Partner,comedy,David Dhawan,1100,Super Hit,3.36,12.10938,Sajid - Wajid
+439,Shaadi Karke Phas Gaya Yaar,rom__com,K.S. Adhiyaman,200,Disaster,1.32,0.603,Sajid - Wajid
+440,Ek Tha Tiger,action,Kabir Khan,3200,Blockbuster,11.04,36.9978,Sajid - Wajid
+441,Bajrangi Bhaijaan,masala,Kabir Khan,4100,All Time Blockbuster,15,72.47928,Pritam
+442,Tubelight,drama,Kabir Khan,4400,Below Average,16.2,24.9588,Pritam
+443,Salaam-E-Ishq,love_story,Nikhil Advani,900,Disaster,5.16,6.2688,Shankar - Ehsaan - Loy
+444,Wanted,action,Prabhu Deva,1400,Hit,6.24,11.1876,Sajid - Wajid
+445,Main Aurr Mrs. Khanna,rom__com,Prem Soni,750,Disaster,4.56,1.75365,Sajid - Wajid
+446,Kyon Ki,love_story,Priyadarshan,475,Flop,2.52,2.77848,Himesh Reshammiya
+447,Baabul,drama,Ravi Chopra,675,Flop,3.12,4.74894,Aadesh Shrivastava
+448,God Tussi Great Ho,comedy,Rumi Jaffery,775,Flop,2.52,2.47335,Sajid - Wajid
+449,Saawan... The Love Season,love_story,Saawan Kumar Tak,275,Flop,0.6,0.710025,Aadesh Shrivastava
+450,Kick,action,Sajid Nadiadwala,3800,Blockbuster,16.8,42.216,Honey Singh
+451,Bodyguard,action,Siddique,2750,Blockbuster,8.4,28.1268,Himesh Reshammiya
+452,Jai Ho,action,Sohail Khan,3700,Semi Hit,12.24,22.34544,Sajid - Wajid
+453,Prem Ratan Dhan Payo,drama,Sooraj Barjatya,4200,Hit,21.6,43.8549,Himesh Reshammiya
+454,Yuvvraaj,drama,Subhash Ghai,1100,Disaster,5.76,3.7464,A.R. Rehman
+455,Lucky - No Time for Love,love_story,Vinay Sapru,400,Below Average,1.68,3.3378,Adnan Sami
+456,London Dreams,drama,Vipul Amrutlal Shah,1450,Flop,7.56,4.95816,Shankar - Ehsaan - Loy
+457,Marigold,rom__com,Willard Carroll,160,Disaster,2.28,0.2754,Shankar - Ehsaan - Loy
+458,Game,thriller,Abhinay Deo,1100,Disaster,4.08,1.54551,Shankar - Ehsaan - Loy
+459,Mehbooba,love_story,Afzal Khan,425,Disaster,2.64,0.4542,Ismail Darbar
+460,Nehlle Pe Dehlla,comedy,Ajay Chandhok,300,Disaster,0.84,0.7692,Anand Raj Anand
+461,Zilla Ghaziabad,action,Anand Kumar,1700,Flop,4.32,2.67144,Amjad - Nadeem
+462,Dus,action,Anubhav Sinha,525,Average,2.64,4.66044,Vishal - Shekhar
+463,Tathastu,drama,Anubhav Sinha,250,Disaster,1.32,0.39159,Vishal - Shekhar
+464,Double Dhamaal,comedy,Indra Kumar,1800,Average,3.48,8.4654,Anand Raj Anand
+465,Shabd,drama,Leena Yadav,250,Disaster,1.14,1.28415,Vishal - Shekhar
+466,Knock Out,thriller,Mani Shankar,800,Disaster,3.6,1.0731,Gourov Dasgupta
+467,Bhoomi,drama,Omung Kumar,2000,Disaster,3.72,1.8453,Sachin - Jigar
+468,Lage Raho Munnabhai,drama,Rajkumar Hirani,600,Blockbuster,2.28,15.144,Shantanu Moitra
+469,Department,action,Ram Gopal Verma,1500,Disaster,3.84,2.2866,Vikram Negi
+470,Zinda,thriller,Sanjay Gupta,400,Flop,1.56,2.12163,Kinky Ronald
+471,EMI,comedy,Saurabh Kadra,550,Disaster,2.04,0.9789,Chirantan Bhatt
+472,Luck,thriller,Soham Shah,1150,Flop,4.44,4.0296,Salim - Sulaiman
+473,Mere Dad Ki Maruti,comedy,Ashima Chibber,825,Below Average,1.32,1.7928,Sachin Gupta
+474,Filmistaan,comedy,Nitin Kakkar,450,Flop,0.9,1.19928,Arijit Datta
+475,Dil Bole Hadippa,rom__com,Anurag Singh,950,Flop,3.36,5.5344,Pritam
+476,Kismat Konnection,rom__com,Aziz Mirza,850,Flop,3.24,4.63017,Sajid - Wajid
+477,Jab We Met,rom__com,Imtiaz Ali,475,Hit,1.8,6.11256,Pritam
+478,Chance Pe Dance,rom__com,Ken Ghosh,800,Flop,3.48,1.95633,Adnan Sami
+479,Teri Meri Kahaani,love_story,Kunal Kohli,1450,Flop,4.92,6.5376,Sajid - Wajid
+480,Vaah! Life Ho Toh Aisi!,comedy,Mahesh Manjrekar,325,Flop,1.56,1.100685,Ajay - Atul
+481,Paathshaala,drama,Milind Ukey,500,Flop,1.68,2.06361,Hanif Sheikh
+482,Mausam,love_story,Pankaj Kapoor,1750,Flop,5.88,6.44118,Pritam
+483,Badmaash Company,drama,Parmeet Sethi,1100,Average,3.48,5.8152,Pritam
+484,R... Rajkumar,action,Prabhu Deva,2350,Average,6.96,11.94882,Pritam
+485,Chup Chup Ke,comedy,Priyadarshan,350,Average,1.44,3.0696,Himesh Reshammiya
+486,Phata Poster Nikhla Hero,comedy,Rajkumar Santoshi,1900,Flop,5.64,7.59672,Pritam
+487,Milenge Milenge,love_story,Satish Kaushik,775,Flop,1.44,1.5147,Himesh Reshammiya
+488,Vivah,drama,Sooraj Barjatya,200,Blockbuster,0.96,5.9472,Ravindra Jain
+489,Shaandaar,rom__com,Vikas Bahl,2500,Flop,8.28,9.084,Amit Trivedi
+490,Kaminey,drama,Vishal Bhardwaj,1250,Average,4.8,8.5878,Vishal Bhardwaj
+491,Haider,drama,Vishal Bhardwaj,1250,Average,5.76,9.50001,Vishal Bhardwaj
+492,Rangoon,drama,Vishal Bhardwaj,2100,Disaster,7.32,4.86015,Vishal Bhardwaj
+493,Rab Ne Bana Di Jodi,love_story,Aditya Chopra,1350,Blockbuster,4.68,18.8901,Salim - Sulaiman
+494,Paheli,drama,Amol Palekar,350,Below Average,1.68,3.89442,M.M. Kreem
+495,Ra.One,action,Anubhav Sinha,2900,Hit,15.6,24.88635,Vishal - Shekhar
+496,Om Shanti Om,masala,Farah Khan,1200,Blockbuster,4.8,17.9847,Vishal - Shekhar
+497,Happy New Year,masala,Farah Khan,3850,Super Hit,18,41.13132,Vishal - Shekhar
+498,Don - The Chase Begins Again,action,Farhan Akhtar,850,Hit,4.56,12.76128,Shankar - Ehsaan - Loy
+499,Don 2,action,Farhan Akhtar,2850,Hit,9.12,24.3372,Shankar - Ehsaan - Loy
+500,Jab Harry Met Sejal,rom__com,Imtiaz Ali,3200,Flop,14.28,17.73096,Pritam
+501,Kabhi Alvida Na Kehna,drama,Karan Johar,800,Semi Hit,5.76,13.43088,Shankar - Ehsaan - Loy
+502,My Name Is Khan,drama,Karan Johar,1650,Hit,10.2,23.1774,Shankar - Ehsaan - Loy
+503,Fan,thriller,Maneesh Sharma,3450,Flop,14.4,22.19196,Vishal - Shekhar
+504,Raees,action,Rahul Dholakia,3400,Semi Hit,15.24,32.7024,Ram Sampath
+505,Chennai Express,masala,Rohit Shetty,3600,Blockbuster,13.8,47.51091,Honey Singh
+506,Dilwale,masala,Rohit Shetty,3150,Semi Hit,19.8,44.66778,Pritam
+507,Chak De India,drama,Shimit Amin,500,Super Hit,2.64,12.21804,Salim - Sulaiman
+508,Jab Tak Hai Jaan,love_story,Yash Chopra,2450,Hit,9.36,25.23171,A.R. Rehman
+509,Ferrari Ki Sawaari,drama,Rajesh Mapuskar,875,Semi Hit,2.4,5.814,Pritam
+510,Gang Of Ghosts,comedy,Satish Kaushik,900,Disaster,1.92,0.33516,Dharam - Sandeep
+511,1920 London,horror,Tinu Suresh Desai,1300,Flop,2.52,2.72139,Toshi - Sharib
+512,Wajah Tum Ho,thriller,Vishal Pandya,2000,Flop,1.68,1.6284,Gourav - Roshin
+513,Hijack,action,Kunal Shivdasani,375,Disaster,1.08,0.4086,Justin - Uday
+514,Khoya Khoya Chand,drama,Sudhir Mishra,150,Disaster,0.66,0.353607,Shantanu Moitra
+515,Haseena Parkar,drama,Apoorva Lakhia,1150,Disaster,2.16,1.0881,Sachin - Jigar
+516,Iqbal,drama,Nagesh Kukunoor,70,Average,0.27,0.672825,Salim - Sulaiman
+517,A Gentleman - Sundar Susheel Risky,action,Krishna D.K,1900,Disaster,8.04,4.0188,Sachin - Jigar
+518,Ek Villain,thriller,Mohit Suri,2500,Super Hit,4.68,18.3816,Adnan Dhool
+519,Baar Baar Dekho,drama,Nitya Mehra,1950,Flop,6.36,7.52052,Bilal Saeed
+520,Kapoor & Sons,drama,Shakun Batra,1500,Hit,4.56,17.19426,Amal Malik
+521,Hasee Toh Phasee,rom__com,Vinil Mathew,1300,Average,3.12,7.40904,Vishal - Shekhar
+522,Summer 2007,thriller,Suhail Tatari,125,Disaster,0.54,0.077139,Gourov Dasgupta
+523,Hello,love_story,Atul Agnihotri,650,Flop,1.68,2.1552,Sajid - Wajid
+524,Heroes,drama,Samir Karnik,725,Flop,2.16,3.0528,Sajid - Wajid
+525,Akira,action,A.R. Murugadoss,2400,Flop,3.84,5.26476,Vishal - Shekhar
+526,Noor,drama,Sunhil Sippy,1450,Disaster,2.88,1.42143,Baadshah
+527,Dolly Ki Doli,comedy,Abhishek Dogra,1150,Flop,2.52,2.26005,Sajid - Wajid
+528,Aisha,rom__com,Rajshree Ojha,625,Flop,2.16,3.06315,Amit Trivedi
+529,Neerja,drama,Ram Madhvani,1000,Hit,3.36,14.24628,Vishal Khurana
+530,Ek Vivaah... Aisa Bhi,love_story,Kaushik Ghatak,100,Flop,0.42,0.29865,Ravindra Jain
+531,Hero,love_story,Nikhil Advani,2100,Flop,4.32,5.78175,Jassi Katyal
+532,English Vinglish,drama,Gauri Shinde,700,Semi Hit,3.12,9.4275,Amit Trivedi
+533,Mom,drama,Ravi Udyawar,1200,Flop,4.44,6.78888,A.R. Rehman
+534,One Two Three,comedy,Ashwini Dhir,575,Average,1.68,3.2832,Raghav Sachar
+535,Daddy Cool - Join The Fun,comedy,K. Murali Mohana Rao,525,Flop,1.56,0.76476,Raghav Sachar
+536,Fool N Final,comedy,Ahmed Khan,850,Flop,3.12,3.3144,Himesh Reshammiya
+537,Kaafila,action,Ammtoje Mann,270,Disaster,2.04,0.48558,Sukhwinder Singh
+538,Apne,drama,Anil Sharma,625,Average,2.4,4.7139,Himesh Reshammiya
+539,Singh Saab The Great,action,Anil Sharma,2000,Flop,5.04,3.94785,Sonu Nigam
+540,Big Brother,action,Guddu Dhanoa,290,Disaster,0.96,0.8508,Sandesh Shandilya
+541,Teesri Aankh - The Hidden Camera,thriller,Harry Baweja,400,Disaster,1.5,0.79236,Sukhshinder Shinda
+542,Jo Bole So Nihaal,comedy,Rahul Rawail,400,Disaster,1.8,1.77795,Anand Raj Anand
+543,Yamla Pagla Deewana,comedy,Samir Karnik,1550,Hit,3.48,10.647,Anu Malik
+544,Yamla Pagla Deewana 2,comedy,Sangeeth Sivan,2000,Flop,5.52,5.802,Toshi - Sharib
+545,Poster Boys,comedy,Shreyas Talpade,1300,Flop,3.24,2.050575,Tanishk
+546,Ghayal Once Again,action,Sunny Deol,2300,Flop,6,5.442765,Shankar - Ehsaan - Loy
+547,Ragini MMS 2,horror,Bhushan Patel,2300,Hit,2.28,7.59534,Chirantan Bhatt
+548,Ek Paheli Leela,love_story,Bobby Khan,2000,Flop,2.76,3.06744,Uzair Jaswal
+549,Jism 2,thriller,Pooja Bhatt,1700,Semi Hit,1.56,5.9109,Munish Makhija
+550,Kai Po Che,drama,Abhishek Kapoor,900,Semi Hit,3.6,8.65944,Amit Trivedi
+551,Detective Byomkesh Bakshy,thriller,Dibakar Banerjee,1200,Flop,4.2,5.27424,Mode AKA
+552,Raabta,love_story,Dinesh Vijan,1800,Disaster,5.64,4.043835,Pritam
+553,Shuddh Desi Romance,rom__com,Maneesh Sharma,1050,Hit,3,9.01416,Sachin - Jigar
+554,M.S. Dhoni - The Untold Story,drama,Neeraj Pandey,3900,Hit,13.2,22.77927,Amal Malik
+555,Zindaggi Rocks,drama,Tanuja Chandra,200,Disaster,0.84,0.35025,Anu Malik
+556,Naam Shabana,thriller,Shivam Nair,2000,Below Average,3.96,6.7188,Rochak Kohli
+557,A Flying Jatt,masala,Remo D'Souza,2650,Flop,6.6,5.920425,Sachin - Jigar
+558,Heropanti,action,Sabbir Khan,2200,Hit,3,8.7129,Mustafa Zahid
+559,Baaghi,action,Sabbir Khan,2750,Hit,4.44,15.23595,Ankit Tiwari
+560,Munna Micheal,action,Sabbir Khan,2900,Flop,4.92,6.1836,Tanishk
+561,Kya Love Story Hai,rom__com,Lovely Singh,425,Disaster,0.87,0.585,Pritam
+562,Mastizaade,comedy,Milap Zaveri,1850,Flop,3.6,3.07152,Meet Bros
+563,Dhol,comedy,Priyadarshan,650,Average,1.68,2.7933,Pritam
+564,Love U...Mr. Kalakaar!,love_story,S. Manasvi,325,Disaster,1.44,0.294,Sandesh Shandilya
+565,Kyaa Super Kool Hain Hum,comedy,Sachin Yardi,1400,Hit,2.28,7.2927,Sachin - Jigar
+566,Kyaa Kool Hai Hum,comedy,Sangeeth Sivan,250,Hit,0.6,2.742,Anu Malik
+567,Kyaa Kool Hain Hum 3,comedy,Umesh Ghadge,2050,Flop,3.12,3.9771,Sajid - Wajid
+568,Neal N Nikki,rom__com,Arjun Sablok,200,Flop,0.84,1.2954,Salim - Sulaiman
+569,Main Tera Hero,comedy,David Dhawan,2400,Semi Hit,4.92,9.41427,Sajid - Wajid
+570,Judwaa 2,masala,David Dhawan,3500,Super Hit,7.56,24.79773,Sajid - Wajid
+571,Student Of The Year,rom__com,Karan Johar,1350,Semi Hit,7.08,11.60028,Vishal - Shekhar
+572,ABCD 2,drama,Remo D'Souza,2500,Super Hit,7.8,18.99834,Sachin - Jigar
+573,Humpty Sharma Ki Dulhania,rom__com,Shashank Khaitan,1950,Hit,3.96,13.2912,Sachin - Jigar
+574,Badrinath Ki Dulhania,love_story,Shashank Khaitan,2800,Super Hit,5.28,23.37783,Akhil Sachdeva
+575,Badlapur,thriller,Sriram Raghavan,1700,Hit,3.48,9.46824,Sachin - Jigar
+576,The Dirty Picture,drama,Milan Luthria,1600,Super Hit,3.72,14.03997,Vishal - Shekhar
+577,No One Killed Jessica,thriller,Raj Kumar Gupta,950,Semi Hit,2.28,5.48682,Amit Trivedi
+578,Bobby Jasoos,comedy,Samar Shaikh,1250,Flop,3.12,2.42949,Shantanu Moitra
+579,Begum Jaan,drama,Srijit Mukherji,1250,Flop,2.28,3.67428,Anu Malik
+580,Kahaani,thriller,Sujoy Ghosh,1100,Hit,2.4,11.0052,Vishal - Shekhar
+581,Kahaani 2,thriller,Sujoy Ghosh,1250,Flop,3.96,6.7128, Clinton Cerejo
+582,Tumhari Sulu,drama,Suresh Triveni,1200,Average,2.4,6.1668,Santanu Ghatak
+583,Commando 2,action,Deven Bhojani,2200,Flop,3.12,3.6036,Gourav - Roshin
+584,Chalo Dilli,comedy,Shashant Shah,725,Below Average,1.14,1.74159, Rohit Kulkarni
+585,Broken Horses,thriller,Vidhu Vinod Chopra,175,Disaster,7.2,0.12156,John Debney
+586,Shootout At Lokhandwala,action,Apoorva Lakhia,800,Semi Hit,2.16,5.52516,Strings
+587,Mission Istaanbul,thriller,Apoorva Lakhia,700,Disaster,2.52,1.1211,Anu Malik
+588,Pyare Mohan,comedy,Indra Kumar,400,Flop,1.56,2.2332,Anu Malik
+589,Prince,thriller,Kookie V. Gulati,1200,Flop,4.44,3.4731,Sachin Gupta
+590,Naksha,action,Sachin Bajaj,425,Disaster,2.64,1.191,Pritam
+591,Kisna,love_story,Subhash Ghai,400,Disaster,2.76,1.9554,Ismail Darbar
+592,Secret Superstar,drama,Advait Chandan,1750,Average,5.4,14.7042,Amit Trivedi
+593,Hate Story 3,thriller,Vishal Pandya,2600,Hit,2.4,7.4655,Baman
+594,Fight Club,action,Vikram Chopra,375,Flop,0.99,1.06635,Pritam
